@@ -1324,7 +1324,7 @@ Explore
 
 #explore .leather,
 #explore .types {
-  min-height: 255px;
+  min-height: 200px;
   background-color: #f8f8f8;
   text-align: center;
   width: 100%;
@@ -1335,7 +1335,7 @@ Explore
   font-size: 24px;
   font-weight: 700;
   color: #2a2a2a;
-  padding-top: 90px;
+  padding-top: 65px;
   margin-bottom: 5px;
 }
 
